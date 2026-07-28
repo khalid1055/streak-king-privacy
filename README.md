@@ -1,10 +1,8 @@
-# نشر سياسة الخصوصية
+# Streak King privacy site
 
-هذا المجلد جاهز للنشر عبر GitHub Pages.
+Official bilingual privacy policy for **Streak King: Penalty Kick**.
 
-قبل النشر:
-
-1. إنشاء مستودع عام باسم `streak-king-privacy`.
-2. رفع الملفات إلى جذر المستودع أو مجلد `docs`.
-3. تفعيل GitHub Pages من الفرع الرئيسي.
-4. إضافة الرابط النهائي إلى Google Play Console وداخل إعدادات اللعبة.
+- Public URL: <https://khalid1055.github.io/streak-king-privacy/>
+- Contact: <khalid1055@gmail.com>
+- The site is static, contains no analytics, cookies or external font requests.
+- Re-audit the policy and Google Play Data safety form whenever an ads, Firebase, billing, analytics or crash-reporting SDK changes.
